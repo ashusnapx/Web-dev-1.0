@@ -45,7 +45,7 @@ OUTPUT -> 8
 */
 
 /* INPUT */
-for (int i = 0; i < 5; i++)
+for (let i = 0; i < 5; i++)
 {
     let msg = "Abjkqkfkkqjjk";
 }
@@ -56,7 +56,7 @@ OUTPUT -> msg is not defined
 */
 
 /* INPUT */
-for (int i = 0; i < 5; i++)
+for (let i = 0; i < 5; i++)
 {
     let msg = "kwfbwefkwkf";
     console.log(radius);
@@ -68,7 +68,7 @@ OUTPUT -> kwfbwefkwkf
 
 
 /* INPUT */
-for (int i = 0; i < 5; i++)
+for (let i = 0; i < 5; i++)
 {
     var msg = "kwfbwefkwkf";
 }
